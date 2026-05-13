@@ -1,0 +1,399 @@
+{
+  "name": "Arrow Out",
+  "domain": "arrowout.org",
+  "slug": "arrowout",
+  "genre": "Logic Puzzle",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/e465er9wtcqxeuiaikb122ak32yxs7fh/",
+  "embedSource": "GameMonetize - Arrow Escape Puzzle Game",
+  "seo": {
+    "title": "Arrow Out Online - Free Browser Game, No Download",
+    "description": "Play Arrow Out free online in your browser. Enjoy a logic puzzle where arrows must slide out in the right order without blocking each other with no download, no account, and simple controls.",
+    "keywords": [
+      "Arrow Out",
+      "Arrow Out online",
+      "Arrow Out free",
+      "free online game",
+      "browser game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Arrow Out free online",
+    "heroSubtitle": "Enjoy a logic puzzle where arrows must slide out in the right order without blocking each other. No download, no account, just open the game and play.",
+    "lede": "Arrow Out is a logic puzzle where arrows must slide out in the right order without blocking each other. It runs in a modern browser and is designed for quick, focused sessions on desktop or mobile.",
+    "stats": [
+      {
+        "value": "Instant",
+        "label": "Browser Play"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Access"
+      },
+      {
+        "value": "Mobile",
+        "label": "Touch Friendly"
+      }
+    ],
+    "about": {
+      "kicker": "What is Arrow Out?",
+      "headline": "A focused logic puzzle you can play in your browser.",
+      "paragraph1": "Arrow Out is a free online game where you study the board, choose the correct arrows, and free every piece by opening clean escape routes. The rules are easy to understand, but better scores come from observation and timing.",
+      "paragraph2": "The game loads through a local play page on this site, so you can start without installing software or creating an account."
+    },
+    "howToPlay": {
+      "headline": "How to play Arrow Out",
+      "subheading": "Learn the goal, make deliberate moves, and improve with each round."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Use the Play page and let the browser load the game window."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Board",
+        "desc": "Take a short moment to understand the level goal before your first move."
+      },
+      {
+        "icon": "target",
+        "title": "Choose a Safe Move",
+        "desc": "Use touch or mouse controls to make a move that helps the next one too."
+      },
+      {
+        "icon": "refresh",
+        "title": "Adjust Your Plan",
+        "desc": "If the level gets crowded or risky, slow down and choose the route with the most room."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Finish the Objective",
+        "desc": "Complete the level, then replay when you want a cleaner result or higher score."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Strategy",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Focus",
+        "icon": "eye",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Challenge",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Mastery",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Fast Logic Rounds",
+        "desc": "Open a level and begin solving immediately without account setup."
+      },
+      {
+        "icon": "target",
+        "title": "Order-Based Puzzles",
+        "desc": "Every arrow has a direction, and the correct sequence is the heart of the challenge."
+      },
+      {
+        "icon": "device",
+        "title": "Simple Tap Controls",
+        "desc": "Tap or click to move arrows, making the game easy to play on any modern screen."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Growing Challenge",
+        "desc": "Early boards teach the basics, while later layouts demand more careful route planning."
+      },
+      {
+        "icon": "shield",
+        "title": "Family-Friendly Logic",
+        "desc": "The game focuses on spatial reasoning and patience with no chat or personal data entry."
+      },
+      {
+        "icon": "refresh",
+        "title": "Replayable Solutions",
+        "desc": "Quick retries help you test different sequences and improve your puzzle sense."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Arrow Out?",
+        "a": "Arrow Out is a free browser game where you study the board, choose the correct arrows, and free every piece by opening clean escape routes."
+      },
+      {
+        "q": "Is Arrow Out free?",
+        "a": "Yes. Arrow Out is free to play online from this site."
+      },
+      {
+        "q": "Does Arrow Out work on mobile?",
+        "a": "Yes. The game is designed for modern browsers and supports touch-friendly play."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required. Open the Play page and start playing."
+      },
+      {
+        "q": "Is the game safe for kids?",
+        "a": "The gameplay is family-friendly and does not require chat, social features, or personal data entry."
+      },
+      {
+        "q": "Can I play without downloading?",
+        "a": "Yes. The game runs in the browser, so there is no app or installer to download."
+      }
+    ],
+    "cta": {
+      "headline": "Start playing Arrow Out now.",
+      "subtext": "No signup and no download. Open the Play page and begin in seconds."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Arrow Out",
+        "desc": "Visit the Play page and wait for the game frame to load."
+      },
+      {
+        "title": "Learn the Goal",
+        "desc": "Use the on-screen action and the level layout to understand what needs to be cleared or reached."
+      },
+      {
+        "title": "Play and Improve",
+        "desc": "Make careful moves, retry short rounds, and build a better route each time."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "Is Arrow Out really free?",
+        "a": "Yes. Arrow Out is free to play online with no account or download required."
+      },
+      {
+        "q": "What devices can I use?",
+        "a": "Use any current desktop, tablet, or mobile browser with an internet connection."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "Arrow Out is about order and space. Each arrow can only leave in its own direction, so one wrong tap can block the route you need next."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "An internet connection is needed to load the game in the browser."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Any available progress behavior depends on the embedded game. You can always replay from the Play page."
+      },
+      {
+        "q": "Is Arrow Out suitable for children?",
+        "a": "The game uses family-friendly puzzle or arcade mechanics and does not require personal information."
+      },
+      {
+        "q": "Why use a browser version?",
+        "a": "Browser play keeps setup simple. You can open the game, play a short session, and leave without installing anything."
+      },
+      {
+        "q": "Where should I start?",
+        "a": "Start with the Play page, learn the first level slowly, then replay to improve your timing and decisions."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Arrow Out is a logic puzzle where arrows must slide out in the right order without blocking each other. The best way to improve is to slow down, read the level, and make moves that leave options open.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Go to the Play page and wait for the full-window game frame to load."
+      },
+      {
+        "title": "Understand the Objective",
+        "desc": "Your goal is to study the board, choose the correct arrows, and free every piece by opening clean escape routes."
+      },
+      {
+        "title": "Make Controlled Moves",
+        "desc": "Use touch or mouse input carefully. Small, planned actions usually beat rushed ones."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Arrow Out is about order and space. Each arrow can only leave in its own direction, so one wrong tap can block the route you need next."
+    },
+    "difficultyProgression": "The first levels introduce the basic rhythm. Later attempts become more satisfying as you learn patterns, routes, and timing.",
+    "tips": [
+      {
+        "title": "Start from the edges",
+        "desc": "Outer arrows often have the clearest path and can open space for the center pieces."
+      },
+      {
+        "title": "Trace the direction",
+        "desc": "Before tapping, follow the arrow path with your eyes to make sure nothing blocks it."
+      },
+      {
+        "title": "Free crowded areas",
+        "desc": "When several arrows point into the same space, remove the easiest one first to reduce pressure."
+      },
+      {
+        "title": "Avoid random taps",
+        "desc": "Guessing can make the board harder. Slow, planned moves solve levels more consistently."
+      },
+      {
+        "title": "Use retries to learn",
+        "desc": "If a level traps you, restart and test a different opening sequence."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides and Strategy",
+    "subheading": "Practical guides to help you understand Arrow Out and enjoy better sessions.",
+    "introParagraph": "Read simple, useful articles about Arrow Out, including beginner advice, strategy tips, and healthy play guidance.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Arrow Out: A Beginner Guide",
+        "excerpt": "Learn the basics of Arrow Out, from opening the game to making better first moves.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "Guide",
+        "sections": [
+          {
+            "heading": "What Is Arrow Out?",
+            "paragraphs": [
+              "Arrow Out is a free browser game where you study the board, choose the correct arrows, and free every piece by opening clean escape routes.",
+              "It is built for quick sessions, clear controls, and steady improvement without downloads or account setup."
+            ]
+          },
+          {
+            "heading": "How to Begin",
+            "paragraphs": [
+              "Open the Play page and wait for the game window to load fully.",
+              "Use the first round to learn the controls and the pace rather than chasing a perfect score."
+            ]
+          },
+          {
+            "heading": "Your First Session",
+            "paragraphs": [
+              "Watch how the level reacts to each move and remember which choices created more space.",
+              "After a short retry, most players can already see cleaner routes and safer decisions."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "When you know the goal, head back to the Play page and start a fresh round."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Arrow Out Tips That Help Right Away",
+        "excerpt": "Use these practical habits to avoid common mistakes and play with more control.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-05",
+        "icon": "Tips",
+        "sections": [
+          {
+            "heading": "Slow Down First",
+            "paragraphs": [
+              "Most mistakes happen when you move before reading the level.",
+              "A two-second pause can reveal a safer route, a better match, or a blocked path you might miss."
+            ]
+          },
+          {
+            "heading": "Start from the edges",
+            "paragraphs": [
+              "Outer arrows often have the clearest path and can open space for the center pieces.",
+              "This habit is especially useful when the board or path starts to feel crowded."
+            ]
+          },
+          {
+            "heading": "Trace the direction",
+            "paragraphs": [
+              "Before tapping, follow the arrow path with your eyes to make sure nothing blocks it.",
+              "Small improvements in order and timing add up quickly across several short rounds."
+            ]
+          },
+          {
+            "heading": "Practice in Short Sessions",
+            "paragraphs": [
+              "A few focused minutes are enough to learn patterns without getting tired.",
+              "Come back later and you will often spot better choices faster."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Arrow Out for Families: What Parents Should Know",
+        "excerpt": "A short overview of gameplay, safety, and healthy screen time habits.",
+        "category": "Family",
+        "readTime": "5 min read",
+        "date": "2026-01-10",
+        "icon": "Family",
+        "sections": [
+          {
+            "heading": "Family-Friendly Gameplay",
+            "paragraphs": [
+              "Arrow Out focuses on simple browser gameplay, observation, and decision-making.",
+              "There is no need for chat, account creation, or personal profile setup to play from this site."
+            ]
+          },
+          {
+            "heading": "Useful Skills",
+            "paragraphs": [
+              "Puzzle and casual games can encourage focus, planning, and pattern recognition when played in moderation.",
+              "Parents can make play more meaningful by asking children to explain why they chose a move."
+            ]
+          },
+          {
+            "heading": "Healthy Limits",
+            "paragraphs": [
+              "Short sessions work best. Decide on a time limit before starting and take breaks between rounds.",
+              "Because the game opens quickly, it is easy to fit play into a controlled break rather than a long session."
+            ]
+          },
+          {
+            "heading": "Privacy Basics",
+            "paragraphs": [
+              "The site does not ask players to create an account to start the game.",
+              "As with any web game, parents should supervise younger children and keep browser privacy settings up to date."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
